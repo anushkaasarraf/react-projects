@@ -27,7 +27,7 @@ A collection of small React projects built with **React 19** and **Vite**, creat
 ### Clone the repository
 
 ```bash
-git clone https://github.com/anushkaasarraf/<your-repo-name>.git
+git clone https://github.com/anushkaasarraf/react-projects.git
 cd react-projects
 ```
 
